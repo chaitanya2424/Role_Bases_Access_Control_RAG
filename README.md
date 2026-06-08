@@ -1,5 +1,7 @@
 ﻿# AI Interview Project — RAG with RBAC
 
+![Python CI](https://github.com/chaitanya2424/Role_Bases_Access_Control_RAG/actions/workflows/python-app.yml/badge.svg)
+
 This is a personal interview project I built as a fresher to show my understanding of retrieval-augmented generation and access control.
 
 I built the whole pipeline in Python, including data generation, retrieval, RBAC checks, and a Streamlit demo app.
