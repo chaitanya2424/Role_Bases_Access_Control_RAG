@@ -6,6 +6,7 @@
 [![Python](https://img.shields.io/badge/Python-3.11%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![Streamlit](https://img.shields.io/badge/Streamlit-Demo-orange?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io)
 [![GitHub Workflow](https://github.com/chaitanya2424/Role_Bases_Access_Control_RAG/actions/workflows/python-app.yml/badge.svg)](https://github.com/chaitanya2424/Role_Bases_Access_Control_RAG/actions)
+[![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE)
 
 <br/>
 
